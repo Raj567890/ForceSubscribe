@@ -9,7 +9,7 @@
         "telegram-bot",
         "ForceSubBot"
     ],
-    "repository": "https://github.com/RioProjectX/ForceSubscribe",
+    "repository": "https://github.com/Raj567890/ForceSubscribe",
     "success_url": "https://t.me/siiniaja",
     "env": {
         "API_HASH": {
